@@ -6,4 +6,3 @@ devops/terraform.tfstate.backup
 base/.terraform
 base/terraform.tfstate
 base/terraform.tfstate.backup
-base/.terraform
